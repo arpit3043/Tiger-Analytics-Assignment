@@ -1,0 +1,10 @@
+.rightBar {
+  width: 40%;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+.dataList {
+  margin: 5px;
+  padding: 2px;
+}
